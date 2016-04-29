@@ -1,0 +1,31 @@
+{
+  "name": "entrega-de-pizza",
+  "version": "0.0.1",
+  "description": "Software para pizzarias",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelescrich/Entrega-de-Pizza.git"
+  },
+  "keywords": [
+    "pizza",
+    "delivery",
+    "pizzaria"
+  ],
+  "author": "Rafael Escrich",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rafaelescrich/Entrega-de-Pizza/issues"
+  },
+  "homepage": "https://github.com/rafaelescrich/Entrega-de-Pizza#readme",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "body-parser": "^1.15.0",
+    "bookshelf": "^0.9.4",
+    "express": "^4.13.4",
+    "knex": "^0.10.0"
+  }
+}
